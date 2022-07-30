@@ -14,3 +14,13 @@ Day 6 Reflection: Today we learned about convoluting neural networks, and how th
 Day 7 Reflection: Today we learned about the importance of avoiding bias data. For our collab notebook, we played a hiring game, where we would hire people based on their statistics. Little did we realize, the color of the people was also getting read in the machine. In this activity, I realized that it is really important to sample many people randomly, and avoid as much bias as possible.
 
 Day 8 Reflection: Today we learned about the different layers such as batch normalized layers and droput layers. I learned more about how to analyze images and about convolutional neural networks!
+
+Day 9 Reflection: Today we learned about loss functions such as regression and classification loss. We learned about the mean-squared error, mean-absolute error, mean squared logarithmic error, and more. I liked learning about this because I love trouble shooting and testing!
+
+Day 10 Reflection: Today we learned about activation functions. We learned about sigmoid, relu, gradients, selu, gelu, and more. 
+
+Day 11 Reflection: Today we learned about the ethics of machine learning. We learned about how important it is to avoid bias and about how to address different types of biases and addressing ethical issues. 
+
+Day 12 Reflection: Today we learned about image classification! We learned about datasets, data processing, and building our neural net! We also learned about model serialisation and validation.
+
+Day 13 Reflection: 
