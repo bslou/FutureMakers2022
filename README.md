@@ -22,5 +22,3 @@ Day 10 Reflection: Today we learned about activation functions. We learned about
 Day 11 Reflection: Today we learned about the ethics of machine learning. We learned about how important it is to avoid bias and about how to address different types of biases and addressing ethical issues. 
 
 Day 12 Reflection: Today we learned about image classification! We learned about datasets, data processing, and building our neural net! We also learned about model serialisation and validation.
-
-Day 13 Reflection: 
